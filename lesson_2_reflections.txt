@@ -6,3 +6,14 @@ git commit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging is related to the git status, not the directory location
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+reviewing the files before commiting
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+working on new features, making large changes
+
