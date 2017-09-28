@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git add
+git commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging is related to the git status, not the directory location
