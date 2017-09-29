@@ -8,3 +8,8 @@ Why might you want to always pull changes manually rather than having Git automa
 control over change groupings
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks happen on GH
+clones happen from GH to local, or local to local
+branches are within a project
