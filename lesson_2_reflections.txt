@@ -25,3 +25,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 it shows the history of each branch, combined
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+time, decision making power
+
