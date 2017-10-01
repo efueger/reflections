@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks happen on GH
 clones happen from GH to local, or local to local
 branches are within a project
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+you can always reset to that copy or git diff
