@@ -22,3 +22,8 @@ you can always reset to that copy or git diff
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 less overhead, but more conflicts (unknown and difficult to track)
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+leave master in a working state. Faster to commit directly to master.
