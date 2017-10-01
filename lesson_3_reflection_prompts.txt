@@ -17,3 +17,8 @@ branches are within a project
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can always reset to that copy or git diff
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+less overhead, but more conflicts (unknown and difficult to track)
